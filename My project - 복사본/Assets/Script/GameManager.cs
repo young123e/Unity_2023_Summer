@@ -11,8 +11,8 @@ public class GameManager : MonoBehaviour
     public GameObject gameCam;
     public Player player;
     public int stage;
-    float playTime= 10.0f; // 전체 시간
-    float totalPlaytime = 10.0f;
+    float playTime= 100.0f; // 전체 시간
+    float totalPlaytime = 100.0f;
     public GameObject menuPanel;
     public GameObject gamePanel;
     public GameObject gameoverPanel;
