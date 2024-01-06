@@ -3,7 +3,7 @@
 * 팀프로젝트(4인)
 * 역할 : 시작 화면, 첫번째방 구현(c#), 디자인
 * Unity
-
+* 아이디어톤 3등
 ## Information
 이름_ Underwater
 
